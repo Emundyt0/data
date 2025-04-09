@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "data",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1ea1cc88-d80e-4192-a67f-ee51cbe0e336",
+      "database_name": "curly-shadow-5f01-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
